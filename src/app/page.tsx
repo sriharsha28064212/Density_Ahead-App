@@ -5,7 +5,7 @@ import Footer from "../components/footer";
 import Job from "../components/Job";
 import Eq from "../components/eqbeatsiq";
 import Best from "../components/bebest";
-import Wondered from "../components/EverWondered";
+import Wondered from "../components/Everwondered";
 import Test from "../components/test";
 import About from "../components/Workwithus";
 import Meet from "../components/meetahead";
