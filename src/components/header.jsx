@@ -4,7 +4,7 @@ import Image from "next/image";
 function Header(){
     return(
         <header style={{display:'flex'}}>
-        <Image src='/head.png' width={80} height={90}/>
+        <Image src='/head.png' width={80} height={90} alt="logo"/>
         <nav>
           <ul>
             <li><a href="#section1">Emotions</a></li>

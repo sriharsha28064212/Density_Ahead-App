@@ -43,7 +43,7 @@ function Master() {
                 </div>
                 <div style={{ float: "right", width: '50%', marginTop: '150px', height: '400px' }}>
                     <div className="mobilebackground"></div>
-                    <Image src="/mobile.svg" height={400} width={455.35}style={{ position: 'relative', top: '-360px' }} />
+                    <Image src="/mobile.svg" height={400} width={455.35}style={{ position: 'relative', top: '-360px' }} alt="mobile" />
                     <motion.div
                         whileInView="visible"
                         viewport={{ once: true }}

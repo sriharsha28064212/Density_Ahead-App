@@ -7,7 +7,7 @@ import Image from "next/image";
 function Self() {
   return (
     <section id="section5" style={{ marginTop: '50px' }}>
-      <p style={{ fontWeight: '600', marginLeft: '25px', textAlign: 'left' }}>Wrong with self-immprovement & how we're fixing it</p>
+      <p style={{ fontWeight: '600', marginLeft: '25px', textAlign: 'left' }}>Wrong with self-immprovement & how we&apos;re fixing it</p>
       <h1 style={{ fontWeight: 'bold', marginLeft: '25px', textAlign: 'left' }}>Self-improvement.Ugh.</h1>
       <motion.div
         viewport={{ once: true }}
